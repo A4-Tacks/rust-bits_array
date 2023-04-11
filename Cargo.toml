@@ -1,0 +1,15 @@
+[package]
+name = "bits_array"
+version = "0.1.0"
+edition = "2021"
+
+license = "MIT"
+description = "A dynamically sized `bit` array. Store Boolean values in each bit using bit operations."
+homepage = "https://github.com/A4-Tacks/rust-bits_array"
+repository = "https://github.com/A4-Tacks/rust-bits_array"
+readme = "./README.md"
+keywords = ["array", "bitarray", "bitvec", "vector", "data-structures"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
